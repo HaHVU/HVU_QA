@@ -33,10 +33,14 @@ A fine-tuned `VietAI/vit5-base` model trained on HVU_QA achieved:
 These results confirm that HVU_QA is a high-quality resource for developing robust FAQ-style question generation models.
 
 ## Citation
+
 If you use **HVU_QA** in your research, please cite our paper:
+
+```bibtex
 @inproceedings{nguyen2025hvuqa,
-title={A Method to Build QA Corpora for Low-Resource Languages},
-author={Ha Nguyen-Tien and Phuc Le-Hong and Dang Do-Cao and Cuong Nguyen-Hung and Chung Mai-Van},
-booktitle={Proceedings of KSE 2025},
-year={2025}
+  title={A Method to Build QA Corpora for Low-Resource Languages},
+  author={Ha Nguyen-Tien and Phuc Le-Hong and Dang Do-Cao and Cuong Nguyen-Hung and Chung Mai-Van},
+  booktitle={Proceedings of KSE 2025},
+  year={2025}
 }
+
