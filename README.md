@@ -32,16 +32,8 @@ A fine-tuned `VietAI/vit5-base` model trained on HVU_QA achieved:
 
 These results confirm that HVU_QA is a high-quality resource for developing robust FAQ-style question generation models.
 
-## Folder Structure
-
-HVU_QA/
-├── Data/ # 30,000 QCA triples
-├── scripts/ # Preprocessing and evaluation scripts
-├── docs/ # Dataset format and usage guidelines
-└── README.md
-Citation
-
-If you use HVU_QA in your research, please cite our paper:
+## Citation
+If you use **HVU_QA** in your research, please cite our paper:
 @inproceedings{nguyen2025hvuqa,
   title={A Method to Build QA Corpora for Low-Resource Languages},
   author={Ha Nguyen-Tien and Phuc Le-Hong and Dang Do-Cao and Cuong Nguyen-Hung and Chung Mai-Van},
