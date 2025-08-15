@@ -1,6 +1,4 @@
 # HVU_QA
-Open-source Vietnamese Question–Context–Answer corpus and tools for FAQ-style question generation
-# HVU_QA
 
 **HVU_QA** is an open-source Vietnamese Question–Context–Answer (QCA) corpus and supporting tools for building FAQ-style question generation systems in low-resource languages. The dataset was created using a fully automated pipeline that combines web crawling from trustworthy sources, semantic tag-based extraction, and AI-assisted filtering to ensure high factual accuracy.
 
