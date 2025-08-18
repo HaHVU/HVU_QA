@@ -34,50 +34,6 @@ These results confirm that HVU_QA is a high-quality resource for developing robu
 
 ## 📁 Vietnamese Question Generation Tool
 
-A **command-line tool** for:
-
-* **Fine-tuning** a question generation model.
-* **Automatically generating questions** from Vietnamese text.
-
-Built on **Hugging Face Transformers (VietAI/vit5-base)** and **PyTorch**.
-
----
-
-## ✨ Features
-
-* Fine-tune a question generation model with SQuAD v2.0 format data.
-* Generate diverse and creative questions from text passages.
-* Flexible generation parameters (`top-k`, `top-p`, `temperature`, etc.).
-* Simple command-line usage.
-* GPU support if available.
-
----
-
-## 🧩 Creation Process
-
-The dataset was built using a **4-stage automated pipeline**:
-
-1. Select relevant QA websites from trusted sources.
-2. Automatic crawling to collect raw QA pages.
-3. Semantic tag extraction to obtain clean Question–Context–Answer triples.
-4. AI-assisted filtering to remove noisy or inconsistent samples.
-
----
-
-## 📝 Quality Evaluation
-
-A fine-tuned model trained on **HVU_QA (VietAI/vit5-base)** achieved:
-
-* **BLEU Score**: 90.61
-* **Semantic similarity**: 97.0% (cosine ≥ 0.8)
-* **Human evaluation**:
-  * Grammar: **4.58 / 5**
-  * Usefulness: **4.29 / 5**
-
-➡️ These results confirm that **HVU_QA is a high-quality resource** for developing robust FAQ-style question generation models.
-
----
-
 ## 📂 Project Structure
 
 ```
