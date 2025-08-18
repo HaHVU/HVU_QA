@@ -34,20 +34,6 @@ These results confirm that HVU_QA is a high-quality resource for developing robu
 
 ## 📁 Vietnamese Question Generation Tool
 
-## 📂 Project Structure
-
-```
-.HVU_QA
-├── t5-viet-qg-finetuned/
-├── fine_tune_qg.py
-├── generate_question.py
-├── 30ktrain.json
-└── README.md
-```
-> All data files are UTF-8 encoded and ready for use in NLP pipelines.
-
----
-
 ## 🛠️ Requirements
 
 * Python 3.8+
