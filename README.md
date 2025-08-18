@@ -142,6 +142,7 @@ Run:
 ```bash
 python fine_tune_qg.py
 ```
+👉 If you don’t want to fine-tune the model yourself, you can simply download and use the already fine-tuned version **`t5-viet-qg-finetuned`** that we provide (download at: [link](https://huggingface.co/datasets/DANGDOCAO/GeneratingQuestions/tree/main))
 
 ### 🔹 Generating Questions
 
