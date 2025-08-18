@@ -177,14 +177,6 @@ In `generate_question.py`, you can adjust:
 
 ---
 
-## 🤝 Contribution
-
-We welcome contributions:
-
-* Open issues
-* Submit pull requests
-* Suggest improvements or add datasets
-
 ## Citation
 
 If you use **HVU_QA** in your research, please cite our paper:
