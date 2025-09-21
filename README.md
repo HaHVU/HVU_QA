@@ -185,7 +185,7 @@ If you use **HVU_QA** in your research, please cite our paper:
 @inproceedings{nguyen2025hvuqa,
   title={A Method to Build QA Corpora for Low-Resource Languages},
   author={Ha Nguyen-Tien and Phuc Le-Hong and Dang Do-Cao and Cuong Nguyen-Hung and Chung Mai-Van},
-  booktitle={Proceedings of the International Conference on Knowledge and Systems Engineering (KSE)},
+  booktitle={Proceedings of the International Conference...........},
   year={2025}
 }
 
